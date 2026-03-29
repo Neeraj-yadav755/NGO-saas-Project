@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+psycopg2-binary
+pydantic
+python-jose
+razorpay
+reportlab
+qrcode
+smtplib
+whatsapp-web.js
